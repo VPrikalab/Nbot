@@ -3,4 +3,8 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="ButtonControl">Кнопочное управление</string>
+    <string name="GyroscopeControl">Управление через гироскоп</string>
+    <string name="SettingsButton">Настройки</string>
+    <string name="about_title">меню</string>
 </resources>
